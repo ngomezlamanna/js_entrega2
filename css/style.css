@@ -27,3 +27,7 @@ h1 span {
 h2 {
     margin-left: 3px;
 }
+
+ul {
+    list-style-type: none;
+}
